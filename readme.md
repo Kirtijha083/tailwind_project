@@ -30,7 +30,7 @@ This project is a responsive Twitter homepage clone built entirely with Tailwind
 ## Usage
 This project demonstrates how to use Tailwind CSS to create a functional, responsive webpage. It’s an excellent resource for developers wanting to learn Tailwind and front-end layout skills.
 
-# URL: 
+# URL: https://twitterhomepageclone.netlify.app/
 
 # Author
 Kumari Kirti Jha
